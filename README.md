@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jDegut
+- 👋 Hi, I’m Julian DEGUT
 - 👀 I’m interested in Informatic sciences, and precisely Artificial Intelligence
 - 🌱 I’m currently learning How to use TensorFlow for the AI domain
 - 💞️ I’m looking to collaborate on Backend projects
