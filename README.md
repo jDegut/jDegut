@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jDegut
 - 👀 I’m interested in Informatic sciences, and precisely Artificial Intelligence
 - 🌱 I’m currently learning How to use TensorFlow for the AI domain
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Backend projects
 - 📫 How to reach me : jdegut@hotmail.fr
 
 <!---
